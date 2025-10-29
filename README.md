@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/Ranauzair686">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ranauzair686&show_icons=true&theme=material-palenight&hide=stars,issues,prs&hide_rank=true" alt="Uzair's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ranauzair686&show_icons=true&theme=material-palenight&hide_rank=true" alt="Uzair's GitHub stats" />
   </a>
   <br/>
   <a href="https://github.com/Ranauzair686">
@@ -102,6 +102,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranauzair686&theme=material-palenight" alt="Uzair's GitHub activity graph" />
   </a>
 </p>
+
 
 ### 🧩 Fun Fact
 > “Code is like humor — when you have to explain it, it’s bad.” 😄

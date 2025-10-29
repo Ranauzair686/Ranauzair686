@@ -87,13 +87,21 @@
 - Full-stack app built with **Django + Bootstrap + JS**  
 - Implemented **multi-role authentication** and **automated AI analysis**
 
----
-
 ## 📊 GitHub Stats
-| ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranauzair686&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranauzair686&theme=material-palenight)](https://github.com/Ranauzair686) |
-|---|---|
 
----
+<p align="center">
+  <a href="https://github.com/Ranauzair686">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ranauzair686&show_icons=true&theme=material-palenight&hide=stars,issues,prs&hide_rank=true" alt="Uzair's GitHub stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/Ranauzair686">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranauzair686&theme=material-palenight" alt="Uzair's GitHub streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/Ranauzair686">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranauzair686&theme=material-palenight" alt="Uzair's GitHub activity graph" />
+  </a>
+</p>
 
 ### 🧩 Fun Fact
 > “Code is like humor — when you have to explain it, it’s bad.” 😄

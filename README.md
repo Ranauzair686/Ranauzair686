@@ -1,84 +1,103 @@
-
-### Hi there 👋, We are here with you !
-
+## 🧑‍💻 Hi there, I'm **Rana Uzair**  
+**Full-Stack Django & React Developer | API Integrator | SaaS Enthusiast**
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
-<br>
+<img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130" alt="Hello animation">
+</p>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/laadla.rajpoot.5099/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/rana-uzair-983773279) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranauzair686@gmail.com)
- 
-<br/>
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+---
 
-|                                                                                                           |                                                                                      |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Rana Uzair's stats](https://github-readme-stats.vercel.app/api?username=Ranauzair686&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=Ranauzair686&theme=material-palenight)](https://github.com/Ranauzair686) |
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/rana-uzair-983773279) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranauzair686@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ranauzair686)
+[![Portfolio](https://img.shields.io/badge/Website-Alivo.ai-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://alivo.ai)
 
-<h3>My coding stack: </h3>
+---
+
+## 🚀 About Me
+🎓 B.S. in Information Technology — *University of Education, Lahore (2020–2024)*  
+💼 Django Developer @ **Webbuggs** (Mar 2025 – Present)  
+🧠 Passionate about **AI-powered SaaS**, **API-driven apps**, and **scalable backend systems**.  
+💬 I love building **robust REST APIs**, integrating **third-party services**, and optimizing developer experience.  
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
 <p>
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
-  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<!--   <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" /> -->
-  <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
-  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
-  <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  </br>
-
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<br>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgreesql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-<!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> -->
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJs" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
-<!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /> -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<!-- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components" /> -->
-<!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> -->
-<img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="Jekyll" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<!-- <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" /> -->
-<!-- <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" /> -->
-<!-- <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="storybook" /> -->
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white" alt="Istio" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<!-- <img alt="Odoo" src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_community_member_rgb.svg" />
-<img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />   -->
-<img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
-<img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<!--![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/odooapps?color=red&style=plastic)-->
+### 💻 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-<br/>
+### 🧩 Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### ☁️ API Integrations
+<p>
+<img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/SendGrid-0085CA?style=for-the-badge&logo=sendgrid&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 [Alivo.ai](http://alivo.ai)
+> **AI-driven SaaS platform for roofers**
+
+- Developed and managed **backend architecture** using Django + DRF  
+- Built **event scheduling**, **calendar sync**, and **AI call management** with Retell AI & Twilio  
+- Integrated **SendGrid**, **Emailable**, **Mapbox**, **JobNimbus**, and **Acculynx APIs**  
+- Implemented **authentication**, **drive-time optimization**, and **Sentry monitoring**
+
+---
+
+### 🔹 [Manage Your Biz (MYB)](https://github.com/Ranauzair686)
+> Medical statement management system for WNY Medical
+
+- Created REST APIs with DRF and JWT Authentication  
+- Built **Excel/PDF/ZIP export modules** for efficient data operations  
+- Optimized models and serializers for scalable, clean code  
+
+---
+
+### 🔹 [Ambiguity Detection System (FYP)](https://github.com/Ranauzair686/FYP)
+> A web app for detecting ambiguity in SRS documents using **OpenAI API**
+
+- Full-stack app built with **Django + Bootstrap + JS**  
+- Implemented **multi-role authentication** and **automated AI analysis**
+
+---
+
+## 📊 GitHub Stats
+| ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranauzair686&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranauzair686&theme=material-palenight)](https://github.com/Ranauzair686) |
+|---|---|
+
+---
+
+### 🧩 Fun Fact
+> “Code is like humor — when you have to explain it, it’s bad.” 😄

@@ -13,14 +13,6 @@
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-00bcd4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ranauzair.netlify.app/)
 ---
 
-## 🚀 About Me
-🎓 B.S. in Information Technology — *University of Education, Lahore (2020–2024)*  
-💼 Django Developer @ **Webbuggs** (Mar 2025 – Present)  
-🧠 Passionate about **AI-powered SaaS**, **API-driven apps**, and **scalable backend systems**.  
-💬 I love building **robust REST APIs**, integrating **third-party services**, and optimizing developer experience.  
-
----
-
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend

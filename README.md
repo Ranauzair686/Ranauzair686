@@ -53,13 +53,19 @@
 ### ☁️ API Integrations
 <p>
 <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Calendar-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Acculynx-FFB400?style=for-the-badge&logo=roofing&logoColor=white" />
+<img src="https://img.shields.io/badge/JobNimbus-1D4ED8?style=for-the-badge&logo=cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Housecall%20Pro-2E8B57?style=for-the-badge&logo=homeadvisor&logoColor=white" />
+<img src="https://img.shields.io/badge/Smarty-FF6F00?style=for-the-badge&logo=smartthings&logoColor=white" />
 <img src="https://img.shields.io/badge/SendGrid-0085CA?style=for-the-badge&logo=sendgrid&logoColor=white" />
+<img src="https://img.shields.io/badge/Emailable-009688?style=for-the-badge&logo=email&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Retell%20AI-7E57C2?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
-
 ---
 
 ## 🧠 Featured Projects

@@ -8,7 +8,7 @@ wired into the CRM they already run. Window cleaning companies on Jobber especia
 
 [![Website](https://img.shields.io/badge/ranauzair.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranauzair.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/ranauzairuddin)
-[![Upwork](https://img.shields.io/badge/Upwork%20·%20Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~013275fbad41fab2f9)
+[![Upwork](https://img.shields.io/badge/Upwork%20·%20Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ranauzairr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranauzair686@gmail.com)
 
 </div>
